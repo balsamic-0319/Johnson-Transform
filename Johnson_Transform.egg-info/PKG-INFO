@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: Johnson_Transform
+Version: 0.0.1
+Summary: A Johnson transformation package I created for my own use
+Author: ARATA
+License: MIT
+Dynamic: author
+Dynamic: license
+Dynamic: summary
