@@ -31,6 +31,3 @@ def Sb_Inverse(z, gamma, delta, xi, lam):
 def Sl_Inverse(z, gamma, delta, xi, lam):
     ans = xi + lam * np.exp((z - gamma) / delta)
     return ans
-
-def Test():
-    return print("hello!")
